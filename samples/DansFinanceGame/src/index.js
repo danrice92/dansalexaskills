@@ -21,245 +21,261 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "In 2014, how much student loan debt was held in total in the United States?": [
+            "One point two trillion dollars",
+            "One hundred billion dollars",
+            "One billion dollars",
+            "Five hundred billion dollars",
+            "Nine hundred billion dollars"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "How much credit card debt was held in the United States in 2012?": [
+            "Seven hundred ninety-eight point five billion dollars",
+            "Eight hundred one billion dollars",
+            "Nine billion dollars",
+            "One hundred five billion dollars"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "On average, how much debt did the average college graduate leave school with in the year twenty fifteen?": [
+            "Thirty-five thousand dollars",
+            "Ten thousand dollars",
+            "Sixteen thousand five hundred dollars",
+            "Twenty thousand dollars"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "Which of these college majors, on average, results in the highest annual salary after graduation?": [
+            "Engineering",
+            "Business",
+            "Healthcare",
+            "Education"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "How much of its value does a brand new car lose the moment you drive it off the lot, on average?": [
+            "Eleven percent",
+            "One percent",
+            "Eight percent",
+            "Fifty percent"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "How much of its value has a brand new car lost after five years of ownership, on average?": [
+            "Sixty-three percent",
+            "Fifty percent",
+            "Twenty percent",
+            "Forty-six percent"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "Which of these has the smallest impact on your credit score?": [
+            "The number of credit accounts you have",
+            "Derogatory marks on your credit report",
+            "Your on-time payment history",
+            "The age of your credit history"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "If you want a good credit score, it is better to have:": [
+            "Low credit balances on your credit cards",
+            "High credit balances on your credit cards",
+            "Only one credit card",
+            "No credit cards"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "Which of these is not a credit reporting agency?": [
+            "Citi",
+            "TransUnion",
+            "Equifax",
+            "Experian"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "How long can bankruptcy stay on your credit history?": [
+            "Ten years",
+            "Five years",
+            "Three years",
+            "Six months"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "If you leave college with thirty thousand dollars of debt and pay it back over ten years with a seven percent interest rate, how much will you ultimately pay?": [
+            "Over forty-one thousand dollars",
+            "Thirty thousand dollars",
+            "About thirty-five thousand dollars",
+            "About thirty-two thousand dollars"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "What percentage of frequent flyer miles earned from credit card rewards are never redeemed?": [
+            "Seventy-eight percent",
+            "Fifty percent",
+            "Twenty-five percent",
+            "Forty percent"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "Statistically, are you likely to spend more money if you pay for things with cash or with a card?": [
+            "Card",
+            "Cash",
+            "Check",
+            "There is no difference"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "What is the lowest possible credit score?": [
+            "Three hundred",
+            "Three hundred twenty-five",
+            "Zero",
+            "Two hundred"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "What is the highest possible credit score?": [
+            "Eight hundred fifty",
+            "Seven hundred",
+            "Eight hundred",
+            "One thousand"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "A hotel room can only be paid for with a credit card.": [
+            "False, it can also be paid for with a debit card",
+            "True, it can only be paid for with a credit card",
+            "False, all hotels accept cash",
+            "False, you can pay with cash over the phone"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
+        "Who was it who said, many people, if not most, would bestir themselves very little were it not for the pressure of debt obligations. If so, they are not free men and will not work from free motives. The debt motive is, basically, a slave motive?": [
+            "Henry Ford",
+            "George Washington",
+            "Alexander Hamilton",
+            "Kevin Bacon"
         ]
     },
     {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
+        "It is possible to pay for a house in full upfront and not get a mortgage.": [
+            "True",
+            "False",
+            "It depends on your credit score",
+            "It depends"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
+        "On average, is it most expensive to lease a new car, finance a new car, or finance a used car after the lease or loan has been fully paid for?": [
+            "Lease",
+            "Finance new",
+            "Finance used",
+            "They are all about the same"
         ]
     },
     {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
+        "If you are leasing a car, do you legally own the car?": [
+            "No",
+            "Yes",
+            "It depends on the lease",
+            "It depends on the judge you get"
         ]
     },
     {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
+        "It is possible to purchase both new and used cars without getting a loan or lease.": [
+            "True",
+            "False",
+            "It depends on the car company",
+            "You can buy used cars but you have to finance new cars"
         ]
     },
     {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
+        "Statistically, which of these do most people typically do with their finances when they get a pay raise?": [
+            "Increase their spending",
+            "Decrease their spending",
+            "Spend about the same as they did before",
+            "Quit their job"
         ]
     },
     {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
+        "On average, how much more does a college graduate with a Bachelor's Degree make during their time in the workforce than a high school graduate?": [
+            "A million dollars more",
+            "One hundred thousand dollars more",
+            "Fifty million dollars more",
+            "They don't, they actually make less than high school graduates"
         ]
     },
     {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
+        "According to a study from Princeton University, there is a correlation between money and happiness at low to middle income levels. At what income level did money no longer have any clear correlation with happiness in the study?": [
+            "Seventy-five thousand dollars a year",
+            "Thirty thousand dollars a year",
+            "Two hundred fifty thousand dollars a year",
+            "People were very happy working for minimum wage."
         ]
     },
     {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
+        "What is the federal minimum wage in the United States as of the year twenty sixteen?": [
+            "Seven twenty-five an hour",
+            "Eight thirty-one an hour",
+            "Fifteen dollars an hour",
+            "Twelve dollars an hour"
         ]
     },
     {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
+        "Some states have different minimum wages than the federal minimum wage. Which of these states is tied with California for the highest minimum wage rate, ten dollars an hour, as of twenty sixteen?": [
+            "Massachusetts",
+            "Washington",
+            "Wyoming",
+            "Illinois"
         ]
     },
     {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
+        "All credit scores are calculated using the FICO scoring model.": [
+            "False",
+            "True",
+            "True, but only during leap years",
+            "True if you are under twenty-five"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
+        "What percentage of adults in the United States have no savings outside of funds in a retirement plan?": [
+            "Thirty-nine percent",
+            "Fifty percent",
+            "Twelve percent",
+            "Everyone has a savings account"
         ]
     },
     {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
+        "How much more in interest will you pay over the life of a mortgage if you get a thirty-year loan than if you get a fifteen-year loan?": [
+            "More than twice as much",
+            "Fifty percent more",
+            "Thirty-three percent more",
+            "Fifty times more"
         ]
     },
     {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
+        "First-time home buyers can qualify for a lower down payment on their home as low as:": [
+            "Three point five percent",
+            "Ten percent",
+            "Twelve point two five percent",
+            "Twenty percent"
+        ]
+    },
+    {
+        "Which of these types of debt are you still liable for if you declare bankruptcy?": [
+            "Student loans",
+            "Credit cards",
+            "Car loans",
+            "Personal loans"
+        ]
+    },
+    {
+        "If you declare bankruptcy, which of these things is true?": [
+            "All of these things",
+            "You may need to give up your house",
+            "You may need to give up your car",
+            "You will still have to pay for expenses you recently accrued",
+            "You are still responsible for alimony and child support"
         ]
     }
 ];
