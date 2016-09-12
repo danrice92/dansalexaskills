@@ -1,6 +1,8 @@
 # Dan's Alexa Skills
 
-This repo is for some Skills I built for the Amazon Alexa platform.
+![Echo](alexa-skills-kit-js/amazon_echo.jpg)
+
+This repo is for some Skills I built for the Amazon Alexa platform, most popularly used by the Amazon Echo.
 
 The first is Dan's Finance Game, a trivia game skill made for my software development course at [Bloc](http://bloc.io). I used Amazon's [Alexa Skills Kit Samples](https://github.com/amzn/alexa-skills-kit-js) repo as a model for the game. The game can be found under samples, DansFinanceGame, src, index.js. It currently has over thirty personal finance trivia questions, with more to come down the road!
 

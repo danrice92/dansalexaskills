@@ -17,14 +17,8 @@
 /**
  * App ID for the skill
  */
-if (event.session.application.applicationId !== "amzn1.ask.skill.2eef26f0-21c8-4f13-b340-efa1e58a5d0e") {
- 
-context.fail("Invalid Application ID"); }
+ var APP_ID = "amzn1.ask.skill.2eef26f0-21c8-4f13-b340-efa1e58a5d0e"; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
-
-/**
- * Array containing history facts.
- */
 var FACTS = [
     "The shortest presidential term was served by the ninth President, William Henry Harrison, who died a month after taking office when he contracted pneumonia.",
     "Franklin D. Roosevelt, the thirty-second President of the United States, gave more executive orders than any other President, with over 3,500 given during his twelve years in office.",
