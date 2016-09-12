@@ -1,6 +1,6 @@
 # Dan's Alexa Skills
 
-![Echo](alexa-skills-kit-js/amazon_echo.jpg)
+![Echo](https://github.com/danrice92/dansalexaskills/blob/master/amazon_echo.jpg)
 
 This repo is for some Skills I built for the Amazon Alexa platform, most popularly used by the Amazon Echo.
 
