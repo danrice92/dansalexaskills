@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "intent": "AskAboutDebtIntent",
+      "slots": [
+        {
+          "name": "DebtBalance",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AnswerDebtBalanceIntent",
+      "slots": [
+        {
+          "name": "DebtBalance",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ButSeriouslyIntent"
+    },
+    {
+      "intent": "HumorousIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }
