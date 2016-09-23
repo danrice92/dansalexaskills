@@ -47,6 +47,6 @@ whole life insurance
 term life insurance
 
 module.exports = {
-    "credit card": "Credit cards suck.",
-    "payday loan": "Payday loans really suck."
+    "credit card": "Credit cards are a scam.",
+    "payday loan": "Payday loans are an even bigger scam."
 };
