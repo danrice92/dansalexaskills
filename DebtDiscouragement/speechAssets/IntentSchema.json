@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "DebtIntent",
+      "slots": [
+        {
+          "name": "Debt",
+          "type": "LIST_OF_DEBTS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }
