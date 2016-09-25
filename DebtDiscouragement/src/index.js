@@ -3,7 +3,7 @@
 var AlexaSkill = require('./AlexaSkill'),
     answers = require('./answers');
 
-var APP_ID = undefined; //OPTIONAL: replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
+var APP_ID = 'amzn1.ask.skill.44065039-014f-4846-9c81-c8718ad8c353'; //OPTIONAL: replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
 
 var HowTo = function () {
     AlexaSkill.call(this, APP_ID);
@@ -14,7 +14,7 @@ HowTo.prototype = Object.create(AlexaSkill.prototype);
 HowTo.prototype.constructor = HowTo;
 
 HowTo.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
-    var speechText = "Welcome to the How To Helper. You can ask a question like, should I get a lease on a new car? ... Now, what can I help you with?";
+    var speechText = "Welcome to Debt Discouragement, where I will try and help you be smart with your money by avoiding debt and interest. You can ask a question like, should I lease a new car? Now, what can I help you with?";
     // If the user either does not reply to the welcome message or says something that is not
     // understood, they will be prompted again with this text.
     var repromptText = "For instructions on what you can say, please say help me.";

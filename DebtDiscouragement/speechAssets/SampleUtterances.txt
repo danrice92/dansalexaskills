@@ -1,15 +1,27 @@
-DebtIntent I have a {Debt} balance.
-DebtIntent I was thinking about getting a {Debt}.
-DebtIntent I want to {Debt} a car.
-DebtIntent I want to pay off my {Debt}.
-DebtIntent I am thinking about getting a {Debt} on a house.
-DebtIntent I am thinking about taking out a {Debt}.
-DebtIntent I was thinking about putting a {Debt} on payments.
-DebtIntent A salesman said I could finance some {Debt} for no interest, should I do that?
-DebtIntent I was thinking about getting a {Debt}.
-DebtIntent Ask Debt Discouragement about {Debt}.
-DebtIntent Should I sign a new {Debt}?
-DebtIntent Tell me about the {Debt}.
-DebtIntent Tell me about using a {Debt} at a phone company.
-DebtIntent Should I buy a home with cash or {Debt} it?
-DebtIntent Should I pay for things with a {Debt}?
+DebtIntent I have a {Debt} balance
+DebtIntent I was thinking about getting a {Debt}
+DebtIntent I want to {Debt} a car
+DebtIntent Ask Debt Discouragement about {Debt} a car
+DebtIntent Should I get a {Debt} on a new car
+DebtIntent Should I {Debt} a car
+DebtIntent Should I get a {Debt} on a new house
+DebtIntent Should I buy a {Debt}
+DebtIntent Are {Debt} a good value
+DebtIntent Should I get a {Debt}
+DebtIntent I want to pay off my {Debt}
+DebtIntent I am thinking about getting a {Debt} on a house
+DebtIntent I am thinking about taking out a {Debt}
+DebtIntent I was thinking about putting a {Debt} on payments
+DebtIntent A salesman said I could finance some {Debt} for no interest should I do that
+DebtIntent I was thinking about getting a {Debt}
+DebtIntent Ask Debt Discouragement about {Debt}
+DebtIntent Should I sign a new {Debt}
+DebtIntent Is it better to get term {Debt} or whole life insurance
+DebtIntent Is it better to {Debt} a car or lease it
+DebtIntent Is it better to {Debt} a car or finance it
+DebtIntent What if a car has {Debt}
+DebtIntent Ask Debt Discouragement if I should finance a {Debt}
+DebtIntent Tell me about the {Debt}
+DebtIntent Tell me about using a {Debt} at a phone company
+DebtIntent Should I buy a home with cash or {Debt} it
+DebtIntent Should I pay for things with a {Debt}
