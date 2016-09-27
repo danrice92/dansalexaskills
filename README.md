@@ -8,4 +8,4 @@ The first is Dan's Finance Game, a trivia game skill made for my software develo
 
 The second is Dan's US History Facts, a skill that lets you ask Alexa for a US history fact. Alexa responds with one of the many facts completely at random. It can be found under samples, DansHistoryFacts, src, index.js. It has over seventy history facts in it and is live on Alexa.
 
-The third is Debt Discouragement, which is the first Alexa skill I built without (heavy) reliance on a template. It allows the user to ask Alexa about a variety of different types of debt, from payday loans to home mortgages! It is under development and will be submitted to Amazon soon.
+The third is Debt Discouragement, which is the first Alexa skill I built without (heavy) reliance on a template. It allows the user to ask Alexa about a variety of different types of debt, from payday loans to home mortgages! It is under review at Amazon.
