@@ -3,7 +3,7 @@
 var AlexaSkill = require('./AlexaSkill'),
     answers = require('./answers');
 
-var APP_ID = 'amzn1.ask.skill.44065039-014f-4846-9c81-c8718ad8c353'; //OPTIONAL: replace with 'amzn1.echo-sdk-ams.app.[your-unique-value-here]';
+var APP_ID = 'amzn1.ask.skill.44065039-014f-4846-9c81-c8718ad8c353';
 
 var HowTo = function () {
     AlexaSkill.call(this, APP_ID);
@@ -20,8 +20,6 @@ HowTo.prototype.eventHandlers.onLaunch = function (launchRequest, session, respo
     var repromptText = "For instructions on what you can say, please say help me.";
     response.ask(speechText, repromptText);
 };
-
-// DebtIntent, answers instead of recipes, debtName instead of itemName, debtSlot instead of itemSlot
 
 HowTo.prototype.intentHandlers = {
     "DebtIntent": function (intent, session, response) {
@@ -59,7 +57,6 @@ HowTo.prototype.intentHandlers = {
             response.ask(speechOutput, repromptOutput);
         }
     },
-
 
     "AMAZON.StopIntent": function (intent, session, response) {
         var speechOutput = "Goodbye";
